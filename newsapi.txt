@@ -1,0 +1,30 @@
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC.com",
+      "title": "Ismael 'El Mayo' Zambada",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMXJ3eWwyeDA1MG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzFyd3lsMngwNTBvLmFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T04:08:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "Trump, Honing Attacks on Harris, Casts Her as a Far-Left Threat - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjYvdXMvcG9saXRpY3MvdHJ1bXAtaGFycmlzLXR1cm5pbmctcG9pbnQtYWN0aW9uLmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-07-27T03:24:42Z",
+      "content": "Belo"
+    },
+    {
